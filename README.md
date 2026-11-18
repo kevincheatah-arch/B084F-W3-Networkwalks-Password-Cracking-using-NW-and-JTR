@@ -125,3 +125,11 @@ Week 03 provided valuable practical experience in password security assessment. 
 Both approaches successfully recovered the password `good-luck`, and I verified the results by opening the protected PDF documents. The exercises helped me understand how weak passwords can be exposed through dictionary attacks and why individuals and organisations should use long, complex and unique passwords to protect sensitive information.
 
 Overall, this week's activities strengthened my practical knowledge of password security, hash extraction and ethical password-cracking techniques.# B084F-W3-Networkwalks-Password-Cracking-using-NW-and-JTR
+
+Evidence
+<img width="960" height="496" alt="q4" src="https://github.com/user-attachments/assets/9ae092d0-3bdf-4fdf-886b-92d0e2bb14bb" />
+<img width="956" height="408" alt="q6" src="https://github.com/user-attachments/assets/55943f90-9d8f-42ab-aa7d-db35f793a01c" />
+<img width="931" height="422" alt="q8" src="https://github.com/user-attachments/assets/ba0a9239-484e-4850-81c8-8c0b5120d20b" />
+<img width="729" height="401" alt="q9" src="https://github.com/user-attachments/assets/b0e55f5f-3654-4237-8b53-a0abca9ccd10" />
+<img width="953" height="410" alt="q12" src="https://github.com/user-attachments/assets/bded8012-fc52-45aa-96c4-3ffe09174c11" />
+
